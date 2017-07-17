@@ -10,6 +10,7 @@
     max-height: 20%;
     height: 50px;
     width: 100%;
+    vertical-align: middle;
 }
 
 .second-place {
@@ -30,10 +31,18 @@ body {
     display: flex;
     height: 100vh;
     margin: 0;
-    font-family: 'Open Sans';
-    font-size: 22px;
 }
 .base {
     flex: 1;
     background: #fafafa;
+}
+
+.gamer-tag {
+    display: inline-block;
+    float: left;
+}
+
+.record {
+    display: inline-block;
+    float: right;
 }
