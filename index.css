@@ -1,0 +1,39 @@
+.rectangle {
+    float: left;
+    max-height: 20%;
+    height: 20px;
+    width: 100%;
+}
+
+.first-place {
+    float: left;
+    max-height: 20%;
+    height: 50px;
+    width: 100%;
+}
+
+.second-place {
+    float: left;
+    max-height: 20%;
+    height: 40px;
+    width: 100%;
+}
+
+.third-place {
+    float: left;
+    max-height: 20%;
+    height: 30px;
+    width: 100%;
+}
+
+body {
+    display: flex;
+    height: 100vh;
+    margin: 0;
+    font-family: 'Open Sans';
+    font-size: 22px;
+}
+.base {
+    flex: 1;
+    background: #fafafa;
+}
