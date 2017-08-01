@@ -3007,6 +3007,7 @@ td, th {
   border-radius: 2px;
   overflow: hidden;
   position: relative;
+  width: 100%;
 }
 
 .collection .collection-item {
@@ -3043,6 +3044,7 @@ td, th {
 
 .collection .collection-item.avatar .title {
   font-size: 16px;
+  vertical-align: middle;
 }
 
 .collection .collection-item.avatar p {
