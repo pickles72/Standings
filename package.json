@@ -12,6 +12,7 @@
     "electron": "^1.6.11"
   },
   "dependencies": {
+    "bootstrap": "^3.3.7",
     "materialize-css": "^0.99.0"
   }
 }
