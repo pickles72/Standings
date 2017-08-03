@@ -22,8 +22,8 @@
 .gamer-image {
   
   border-radius: 32px;
-  top: 50%;
-  padding: 0px;
+  height: 64px;
+  width: 64px;
 }
 
 body {
